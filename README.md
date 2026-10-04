@@ -2,6 +2,9 @@
 
 A Streamlit dashboard for **Learner Demographics and Course Enrollment Behavior Analysis on EduPro**.
 
+# Learner Demographics and Course Enrollment Behavior Analysis on EduPro
+
+🚀 **[Open Live Project](https://edupro-learner-analytics-euiu4ggwacghvxnv6hgym.streamlit.app)**
 ## Features
 - Learner demographic overview
 - Age-group and gender analysis
